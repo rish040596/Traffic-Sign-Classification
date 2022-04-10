@@ -31,3 +31,7 @@ Dropout layer (rate=0.25)
 Dense Fully connected layer (256 nodes, activation=”relu”)
 Dropout layer (rate=0.5)
 Dense layer (43 nodes, activation=” softmax”)
+
+--------------------------------------------------------------------------------------
+
+Accuracy Obtained - 96.3%
